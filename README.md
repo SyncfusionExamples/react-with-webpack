@@ -1,4 +1,4 @@
-# ej2-react-webpack
+# Essential JS2 React Grid Sample with Webpack
 
 This sample provides a concise yet practical reference implementation that demonstrates how to integrate the Syncfusion React Grid into a React application using Webpack as the build and bundling tool. The project focuses on illustrating how React and JSX source files can be bundled into a single, optimized JavaScript output suitable for both development workflows and static hosting environments.
 
