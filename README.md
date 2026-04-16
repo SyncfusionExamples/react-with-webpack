@@ -24,7 +24,6 @@ If you encounter dependency resolution errors (ERESOLVE) related to `webpack-dev
 
 ```bash
 npm install --save-dev webpack-dev-server@3.11.3
-npm install
 ```
 
 ## Run the sample (development)
